@@ -1,2 +1,2 @@
 # IPcameroTest
-漏洞利用学习
+漏洞利用
